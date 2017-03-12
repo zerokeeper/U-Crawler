@@ -37,6 +37,3 @@ q参数即搜索语法，l参数是每个搜索引擎结果的数。
 ```python U-Crawler.py -q inurl:login.php -l 10 -b -o login.txt```
 
 b参数是写入的url去掉后面的路径,默认不去除。o参数是保存结果文件名，默认以开始运行的时间为文件名。
-
-运行截图
-![](http://ocnf2x3pk.bkt.clouddn.com/U-Crawler.png)
