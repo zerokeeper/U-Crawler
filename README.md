@@ -7,7 +7,7 @@ U-Crawler即Url-Crawler
 
 ### 环境
 
-- Python 2.7
+- python 2.7
 - pip
 
 ### 依赖
