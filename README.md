@@ -11,8 +11,6 @@ U-Crawler即Url-Crawler
 - requests
 - BeautifulSoup
 - lxml
-- urlparse
-- optparse
 
 # 使用说明
 
