@@ -5,15 +5,19 @@ U-Crawler即Url-Crawler
 
 ![](http://ocnf2x3pk.bkt.clouddn.com/U-Crawler.png)
 
-# 依赖
+### 环境
 
 - Python 2.7
+- pip
+
+### 依赖
+
 - gevent
 - requests
 - BeautifulSoup
 - lxml
 
-# 使用说明
+### 使用说明
 
 ```
 Usage: U-Crawler.py [-q] query [--limit] number [-o] filename
