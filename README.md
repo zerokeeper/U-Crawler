@@ -7,6 +7,7 @@ U-Crawler即Url-Crawler
 
 # 依赖
 
+- Python 2.7
 - gevent
 - requests
 - BeautifulSoup
