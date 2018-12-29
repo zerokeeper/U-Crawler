@@ -3,7 +3,7 @@ U-Crawler即Url-Crawler
 
 并发的爬取baidu,yahoo,bing和360so搜索结果的url。暂不支持google，google的反爬虫机制太严了，爬取不到一百个结果，就要验证，故取消。
 
-![](http://ocnf2x3pk.bkt.clouddn.com/U-Crawler.png)
+![](https://static-1257872780.cos.ap-shanghai.myqcloud.com/U-Crawler.png)
 
 ### 环境
 
